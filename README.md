@@ -25,4 +25,4 @@ Welcome to my portfolio website repository! This project was built using Next.js
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-portfolio-website.git
+https://github.com/Raunakkumar74/Raunak-portfolio.git
