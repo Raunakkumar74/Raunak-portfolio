@@ -69,7 +69,7 @@ const SkillsData = [
     id: 12,
     category: "tools",
     title: "Cmd Line",
-    imgSrc: "https://i.ibb.co/7gTcFz9/npm.png",
+    imgSrc: "https://i.ibb.co/VY78tTB/command.png",
   },
   {
     id: 13,
