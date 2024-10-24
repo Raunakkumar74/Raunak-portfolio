@@ -17,7 +17,7 @@ const About = () => {
         <p className='about__description'>
         I am eager to pursue a dynamic career in IT, leveraging my software development and problem-solving skills for challenging and innovative projects.
         </p>
-        <a href='xyz' className='btn' download={"Raunak's Resume"}>Download Resume</a>
+        <a href='https://drive.google.com/file/d/1919SIuj00J3fm8v0DtVjzYapVQcVdl9L/view?usp=sharing' className='btn' target='_blank' download={"Raunak's Resume"}>Download Resume</a>
       </div>
 
       <div className='about__skills grid'>
